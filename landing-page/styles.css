@@ -1,0 +1,39 @@
+* {
+    font-family: Roboto;
+}
+
+.hero {
+    background-color: #1f2937;   
+}
+
+#main-text {
+    size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+#secondary-text {
+    size: 18px;
+    color: #e5e7eb;
+}
+
+#logo-text {
+    size: 24px;
+    color: #f9faf8;
+}
+
+button {
+    color: #3882f6;
+}
+
+#information-header-text {
+    size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+#quote-text {
+    size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+}
