@@ -1,0 +1,17 @@
+* {
+    outline: 2px solid red;
+}
+
+h1 {
+    color: white;
+    background-color: red;
+}
+
+.nav-links {
+    color: black;
+    background-color: yellow;
+}
+
+#title {
+    color: black;
+}
